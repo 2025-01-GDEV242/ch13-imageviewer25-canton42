@@ -1,7 +1,7 @@
 import java.awt.Color;
 
 /**
- * Write a description of class RedTint here.
+ * An image filter that applies shades of red to an image.
  *
  * @author Nolan Canto
  * @version 2025.04.21

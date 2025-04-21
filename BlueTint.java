@@ -1,10 +1,10 @@
 import java.awt.Color;
 
 /**
- * Write a description of class BlueTint here.
+ * An image filter that applies shades of blue to an image.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Nolan Canto
+ * @version 2025.04.21
  */
 public class BlueTint extends Filter
 {

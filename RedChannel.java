@@ -1,7 +1,8 @@
 import java.awt.Color;
 
 /**
- * Write a description of class RedChannel here.
+ * An image filter that removes color from an image, but high red pixel values 
+ * appear lighter in color.
  *
  * @author Nolan Canto
  * @version 2025.04.21

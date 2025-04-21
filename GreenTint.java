@@ -1,8 +1,8 @@
 import java.awt.Color;
 
 /**
- * Write a description of class GreenTint here.
- *
+ * An image filter that applies shades of green to an image.
+ * 
  * @author Nolan Canto
  * @version 2025.04.21
  */
