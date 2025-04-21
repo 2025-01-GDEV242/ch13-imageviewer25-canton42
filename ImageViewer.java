@@ -16,8 +16,8 @@ import java.util.Iterator;
  * 
  * To start the application, create an object of this class.
  * 
- * @author Michael Kölling and David J. Barnes.
- * @version 3.1
+ * @author Nolan Canto
+ * @version 2025.04.21
  */
 public class ImageViewer
 {
@@ -263,6 +263,8 @@ public class ImageViewer
         filterList.add(new BlueTint("Blue Tint"));
         filterList.add(new Warhol("Warhol"));
         filterList.add(new WarholFlipped("Warhol Flipped"));
+        filterList.add(new GameboyDmg("Gameboy DMG"));
+        filterList.add(new GameboyPocket("Gameboy Pocket"));
        
         return filterList;
     }
